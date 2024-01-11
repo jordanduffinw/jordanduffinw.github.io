@@ -18,9 +18,9 @@ Conference Papers
 
 <!---[**test**](/_publications/2009-10-01-paper-title-number-1.md)-->
 
-
-{% for post in site.publications reversed %}
-	{% include 2009-10-01-paper-title-number-1 %}
+this is a test
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
 {% endfor %}
 
 Working Papers
