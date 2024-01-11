@@ -31,7 +31,7 @@ this is a test
 and another test
 
 
-{%include /research/2009-10-01-paper-title-number-1.md%}
+{%include_relative /research/2009-10-01-paper-title-number-1.md%}
 
 
 Working Papers
