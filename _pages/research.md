@@ -30,9 +30,9 @@ this is a test
 
 and another test
 
-
-{%include_relative /research/2009-10-01-paper-title-number-1.md%}
-
+{% for post in site.publications reversed %}
+	{%include 2009-10-01-paper-title-number-1.md%}
+{% endfor %}
 
 Working Papers
 =====
