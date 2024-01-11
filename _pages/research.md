@@ -30,9 +30,9 @@ this is a test
 
 and another test
 
-{% for post in site.publications reversed %}
+<!---{% for post in site.research reversed %}
 	{%include 2009-10-01-paper-title-number-1.markdown%}
-{% endfor %}
+{% endfor %}--->
 
 Working Papers
 =====
