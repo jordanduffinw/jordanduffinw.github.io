@@ -19,7 +19,7 @@ Conference Papers
 <!---[**test**](/_publications/2009-10-01-paper-title-number-1.md)-->
 
 {% for post in site.publications reversed %}
-  {% 2009-10-01-paper-title-number-1.md %}
+  {% include 2009-10-01-paper-title-number-1.md %}
 {% endfor %}
 
 
