@@ -19,9 +19,13 @@ Conference Papers
 <!---[**test**](/_publications/2009-10-01-paper-title-number-1.md)-->
 
 this is a test
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<ul>
+{% for post in site.publications reversed %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>{% endfor %}
+</ul>
 
 Working Papers
 =====
