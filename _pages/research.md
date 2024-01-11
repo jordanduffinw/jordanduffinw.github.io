@@ -16,24 +16,6 @@ Conference Papers
 =====
 [**Elections and Representation in American Local Government**](/files/papers/20230926-elections_and_representation_in_american_local_government.pdf) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves
 
-<!---[**test**](/_publications/2009-10-01-paper-title-number-1.md)-->
-
-this is a test
-
-<ul>
-{% for post in site.resarch reversed %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
-
-and another test
-
-<!---{% for post in site.research reversed %}
-	{%include 2009-10-01-paper-title-number-1.markdown%}
-{% endfor %}--->
-
 Working Papers
 =====
 [**Municipal Disincorporation and the Voluntary Termination of Local Government**](/files/papers/20230117-municipal_disincorporation_and_the_voluntary_termination_of_local_government.pdf)
