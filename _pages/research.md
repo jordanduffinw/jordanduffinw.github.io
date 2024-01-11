@@ -20,12 +20,9 @@ Conference Papers
 
 Working Papers
 =====
-
-[**Municipal Disincorporation and the Voluntary Termination of Local Government**](/files/papers/20230117-municipal_disincorporation_and_the_voluntary_termination_of_local_government.pdf)
-
 **Promise, Despair, Race, and the Demand for Municipal Citizen's Services** --- with Wayde Z.C. Marsh and Andrew Reeves
 
-[**Paper Title Number 1**](/research/2009-10-01-paper-title-number-1)
+<!---[**Paper Title Number 1**](/research/2009-10-01-paper-title-number-1)--->
 
 [**Municipal Disincorporation and the Voluntary Termination of Local Government**](/research/2023-01-17-municipal-termination-and-the-voluntary-termination-of-local-government)
 
