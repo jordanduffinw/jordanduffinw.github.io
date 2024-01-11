@@ -18,7 +18,7 @@ Conference Papers
 
 <!---[**test**](/_publications/2009-10-01-paper-title-number-1.md)-->
 
-{% include_relative https://jordanduffinw.github.io/publication/2009-10-01-paper-title-number-1.md %}
+{% post_url https://jordanduffinw.github.io/publication/2009-10-01-paper-title-number-1.md %}
 
 Working Papers
 =====
