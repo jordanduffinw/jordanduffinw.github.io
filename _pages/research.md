@@ -21,7 +21,7 @@ Conference Papers
 this is a test
 
 <ul>
-{% for post in site.publications reversed %}
+{% for post in site.resarch reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>{% endfor %}
