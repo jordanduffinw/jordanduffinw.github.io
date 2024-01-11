@@ -24,8 +24,15 @@ this is a test
 {% for post in site.resarch reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>{% endfor %}
+    </li>
+{% endfor %}
 </ul>
+
+and another test
+
+
+{%include /research/2009-10-01-paper-title-number-1.md%}
+
 
 Working Papers
 =====
