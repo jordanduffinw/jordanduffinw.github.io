@@ -13,6 +13,6 @@ author_profile: true
 
 here is some text
 
-<!---{% for post in site.research reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} --->
+{% endfor %}
