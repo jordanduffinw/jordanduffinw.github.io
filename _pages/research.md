@@ -16,12 +16,11 @@ Conference Papers
 =====
 [**Elections and Representation in American Local Government**](/files/papers/elections_and_representation_in_american_local_government.pdf) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves
 
-% include /site/publications/2009-10-01-paper-title-number-1.md % 
+[**test**](/_publications/2009-10-01-paper-title-number-1.md)
 
 Working Papers
 =====
 [**Municipal Disincorporation and the Voluntary Termination of Local Government**](/files/papers/municipal_disincorporation_and_the_voluntary_termination_of_local_government.pdf)
-
 
 **Promise, Despair, Race, and the Demand for Municipal Citizen's Services** --- with Wayde Z.C. Marsh and Andrew Reeves
 
