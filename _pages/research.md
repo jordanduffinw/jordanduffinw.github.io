@@ -16,3 +16,8 @@ here is some text
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+and here is some more
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
