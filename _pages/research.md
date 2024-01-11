@@ -20,7 +20,7 @@ Conference Papers
 
 Working Papers
 =====
-**Promise, Despair, Race, and the Demand for Municipal Citizen's Services** --- with Wayde Z.C. Marsh and Andrew Reeves
+<!---**Promise, Despair, Race, and the Demand for Municipal Citizen's Services** --- with Wayde Z.C. Marsh and Andrew Reeves--->
 
 <!---[**Paper Title Number 1**](/research/2009-10-01-paper-title-number-1)--->
 
