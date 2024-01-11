@@ -20,7 +20,7 @@ Conference Papers
 
 
 {% for post in site.publications reversed %}
-	{% post_url 2009-10-01-paper-title-number-1 %}
+	{% include 2009-10-01-paper-title-number-1 %}
 {% endfor %}
 
 Working Papers
