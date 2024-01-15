@@ -40,7 +40,7 @@ Other
 
 [**Musical Characteristics of Campaign Songs**](/files/other/2021-musical_characteristics_of_campaign_songs.pdf) ---Academic Poster
 
-[**An Empirical Analysis of Individual Events in Collegiate Forensics (2020)**](/files/2020-an_empirical_analysis_of_individual_events_in_collegiate_forensics.pdf) --- Undergraduate Honors Thesis --- Advised by Aaron Duncan and Chris Mann
+[**An Empirical Analysis of Individual Events in Collegiate Forensics (2020)**](/files/papers/2020-an_empirical_analysis_of_individual_events_in_collegiate_forensics.pdf) --- Undergraduate Honors Thesis --- Advised by Aaron Duncan and Chris Mann
 
 **Rural Futures Institute Thriving Index (2019-20)** --- [Annual Report](https://ruralprosperityne.unl.edu/thriving-index) --- with Tommie Brechbill, Bree Dority, Mitch Herian, Skylar Lowe, Bhabishya Neupane, Anthony Quandt, Michael Schneider, Jordan de Spong, Eric Thompson, Uyen Tran, and Victoria Villota
 
