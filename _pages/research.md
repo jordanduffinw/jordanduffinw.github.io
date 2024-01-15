@@ -14,7 +14,7 @@ author_profile: true
 
 Conference Papers
 =====
-[**Elections and Representation in American Local Government**](/research/2023-09-26-elections-and-representation-in-american-local-government.pdf) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves
+[**Elections and Representation in American Local Government**](/research/2023-09-26-elections-and-representation-in-american-local-government) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves
 
 -----
 
