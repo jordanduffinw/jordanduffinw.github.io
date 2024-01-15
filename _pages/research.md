@@ -20,21 +20,27 @@ Conference Papers
 
 Working Papers
 =====
-<!---**Promise, Despair, Race, and the Demand for Municipal Citizen's Services** --- with Wayde Z.C. Marsh and Andrew Reeves--->
-
 <!---[**Paper Title Number 1**](/research/2009-10-01-paper-title-number-1)--->
 
 [**Municipal Disincorporation and the Voluntary Termination of Local Government**](/research/2023-01-17-municipal-termination-and-the-voluntary-termination-of-local-government)
+
+**Promise, Despair, Race, and the Demand for Municipal Citizen's Services** --- with Wayde Z.C. Marsh and Andrew Reeves
 
 -----
 
 Other
 =====
+[**Weidenbaum Center Survey**](https://wc.wustl.edu/american-social-survey-tass) --- Faculty Research Survey --- with Taylor Carlson
+
 **St. Louis Zoning Atlas** --- with Priya Anand, Matthew Boyd, Cassandra Custis, Alexis Hyde, Loraine Koua, Madeline Soh, Mark Wei, and Kiara Wyndham-Douds
+
+**St. Louis Policy Data Project** --- with Lukas Alexander, Lucas Boschelli, and Andrew Reeves
 
 **Metropolis-within-Gibbs Sampler (2022)** --- <tt>R</tt> Package --- with Kimberly Acquilano, Weiye (Rex) Deng, Jacob Montgomery, Bryant Moy, Jordon Newton, and Alma Velazquez
 
-**An Empirical Analysis of Individual Events in Collegiate Forensics (2020)** --- [Undergraduate Honors Thesis](/files/An Empirical Analysis of Individual Events in Collegiate Forensics.pdf) --- Advised by Aaron Duncan and Chris Mann
+[**Musical Characteristics of Campaign Songs**](/files/other/2021-musical_characteristics_of_campaign_songs.pdf) ---Academic Poster
+
+[**An Empirical Analysis of Individual Events in Collegiate Forensics (2020)**](/files/2020-an_empirical_analysis_of_individual_events_in_collegiate_forensics.pdf) --- Undergraduate Honors Thesis --- Advised by Aaron Duncan and Chris Mann
 
 **Rural Futures Institute Thriving Index (2019-20)** --- [Annual Report](https://ruralprosperityne.unl.edu/thriving-index) --- with Tommie Brechbill, Bree Dority, Mitch Herian, Skylar Lowe, Bhabishya Neupane, Anthony Quandt, Michael Schneider, Jordan de Spong, Eric Thompson, Uyen Tran, and Victoria Villota
 
