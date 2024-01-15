@@ -12,7 +12,9 @@ Hi! My name is Jordan Duffin Wong and I'm a 4th-year Ph.D student in the Departm
 
 My Research
 ======
-I study the politics and space of the rural United States.
+I study the politics and space of the rural United States. My dissertation is called **Here Come the Vultures: How Our Politics Shape Death (and What Comes After)**. It can be summarized as follows:
+
+<i>Death is a universal experience: astonishingly personal, yet heavily regulated by government. Ample social science research studies how states exert power over death, from policies such as abortion and capital punishment to the promotion of public health. However, that research emphasizes the state's role in events <u>leading up to death</u> at the expense of overlooking its role in death practices, or <u>what is done with bodies after death</u>. This dissertation explores the latter: I argue that our political dispositions inform our preferences for what is done with bodies after death and that those dispositions manifest themselves in the death practices we choose to construct, maintain, or discard. By thinking about the administration of death as a political problem, I conceptualize local government as the solution to that problem. From there, I predict that heterogeneous beliefs about the role of local government map onto divergent preferences for how local government should (or shouldn't) administer death. These preferences manifest in <u>what</u> death practices are legal or socially desirable, <u>who</u> is allowed to administer them, and <u>where</u> they are enacted.</i>
 
 <!--My dissertation, in its early stages, is called <b>Is Idyll Ideal? The Politics of Space, Rurality, and Remoteness in the United States</b>. It can be summarized as follows:
 
