@@ -1,7 +1,7 @@
 ---
 title: "Elections and Representation in American Local Government"
 collection: research
-permalink: /research/2023-09-16-elections-and-representation-in-american-local-government
+permalink: /research/2023-09-26-elections-and-representation-in-american-local-government
 date: 2023-09-26
 citation: 'Marsh, Wayde Z.C., Olson, Michael P., Reeves, Andrew, and Duffin Wong, Jordan. (2023). &quot;Elections and Representation in American Local Government&quot;.'
 ---
