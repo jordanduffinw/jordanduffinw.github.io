@@ -1,7 +1,7 @@
 ---
 title: "Political Alignment and Professional Ethics: An Analysis of COVID-19 Death Reporting by Elected Healthcare Professionals"
 collection: research
-permalink: /research/2023-09-26-elections-and-representation-in-american-local-government
+permalink: /research/2024-01-17-covid-death-reporting
 date: 2024-01-17
 citation: 'Marsh, Wayde Z.C., Olson, Michael P., Reeves, Andrew, and Duffin Wong, Jordan. (2023). &quot;Political Alignment and Professional Ethics: An Analysis of COVID-19 Death Reporting by Elected Healthcare Professionals&quot;.'
 ---
