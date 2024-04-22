@@ -21,7 +21,7 @@ Working Papers
 [**Elections and Representation in American Municipal Administration: Elite Survey Evidence from Five New England States**](/research/2024-04-11-elections-and-representation-in-american-local-government) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves
 
 <!---[**Paper Title Number 1**](/research/2009-10-01-paper-title-number-1)--->
-[**Political Alignment and Professional Ethics: Analyzing COVID-19 Death Reporting by Elected Healthcare Professionals**](/research/2024-01-17-covid-death-reporting) -- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves
+[**Electoral Accountability and Bureaucratic Discretion: Evidence from County Coroners and the COVID-19 Pandemic**](/research/2024-01-17-covid-death-reporting) -- with Michael Olson and Andrew Reeves
 
 [**Municipal Disincorporation and the Voluntary Termination of Local Government**](/research/2023-01-17-municipal-termination-and-the-voluntary-termination-of-local-government)
 
