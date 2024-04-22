@@ -33,13 +33,13 @@ Other
 =====
 [**Weidenbaum Center Survey**](https://wc.wustl.edu/american-social-survey-tass) --- Faculty Research Survey --- with Taylor Carlson
 
-**St. Louis Zoning Atlas** --- with Priya Anand, Matthew Boyd, Cassandra Custis, Alexis Hyde, Loraine Koua, Madeline Soh, Mark Wei, and Kiara Wyndham-Douds
+**St. Louis Zoning Atlas** --- with Priya Anand, Matthew Boyd, Cassandra Custis, Alexis Hyde, Loraine Koua, Sofia Oguntolu, Madeline Soh, Mark Wei, and Kiara Wyndham-Douds
 
 **St. Louis Policy Data Project** --- with Lukas Alexander, Lucas Boschelli, and Andrew Reeves
 
 **Metropolis-within-Gibbs Sampler (2022)** --- <tt>R</tt> Package --- with Kimberly Acquilano, Weiye (Rex) Deng, Jacob Montgomery, Bryant Moy, Jordon Newton, and Alma Velazquez
 
-[**Musical Characteristics of Campaign Songs**](/files/other/2021-musical_characteristics_of_campaign_songs.pdf) ---Academic Poster
+[**Musical Characteristics of Campaign Songs**](/files/other/2021-musical_characteristics_of_campaign_songs.pdf) --- Academic Poster
 
 [**An Empirical Analysis of Individual Events in Collegiate Forensics (2020)**](/files/papers/2020-an_empirical_analysis_of_individual_events_in_collegiate_forensics.pdf) --- Undergraduate Honors Thesis --- Advised by Aaron Duncan and Chris Mann
 
