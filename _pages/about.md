@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jordan Duffin Wong and I'm a 4th-year Ph.D student in the Department of Political Science at Washington University in St. Louis. I am also a survey research affiliate with the Weidenbaum Center on the Economy, Government, and Public Policy.
+Hi! My name is Jordan Duffin Wong and I'm a Ph.D candidate in the Department of Political Science at Washington University in St. Louis. I am also a survey research affiliate with the Weidenbaum Center on the Economy, Government, and Public Policy.
 
 My Research
 ======
-I study the politics and space of the rural United States.
+I study the politics and space of the rural United States. I'm interested in questions about how remoteness, rurality, and the sparseness of political institutions affect people's dispositions towards politics, from both an institutional and behavioral standpoint.
 
 <!--My Teaching
 ======
@@ -23,9 +23,4 @@ Other Fun Stuff
 ------
 I play fake plastic guitar. Check this out:
 
-| Track: <b>Glorious Aggressor</b> |
-| Artist: <b>[Galneyrus](https://www.galneryus.jp/en/band/history)</b> |
-| Charter: <b>[@chemfinal](https://twitter.com/chemfinal) |
-| Mobile users might need to open in a new window |
-
-<iframe src="https://drive.google.com/file/d/18W6sSwooQTVgSIHPMkA8grqqh8sZ5rRt/preview" width="426" height="240" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tc8BZ_EMPloOzwGSXhHIDRwrwMHON00X/preview" width="426" height="240" allow="autoplay"></iframe>
