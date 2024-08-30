@@ -14,10 +14,8 @@ I'm a (low-budget and low-promotion) bit of a music content creator as a hobby, 
 # Rhythm Gaming
 
 ## Children of Bodom
-
 ### Chokehold (99%)
-<iframe src="https://drive.google.com/file/d/1s16VnO_PwYL7JfEWAr9c4za0U0Ihlcum/preview" width="426" height="240" allow="autoplay"></iframe>
-
+<iframe src="https://drive.google.com/file/d/1sGHArucTYMN4nvc72bj9F_NdoD451r85/preview" width="426" height="240" allow="autoplay"></iframe>
 ### Needled 24/7 (99%)
 <iframe src="https://drive.google.com/file/d/1s16VnO_PwYL7JfEWAr9c4za0U0Ihlcum/preview" width="426" height="240" allow="autoplay"></iframe>
 
