@@ -19,18 +19,20 @@ I'm a (low-budget and low-promotion) bit of a music content creator as a hobby, 
 ### Needled 24/7 (99%)
 <iframe src="https://drive.google.com/file/d/1s16VnO_PwYL7JfEWAr9c4za0U0Ihlcum/preview" width="426" height="240" allow="autoplay"></iframe>
 
-## Deep Purple
+---
 
+## Deep Purple
 ### Burn (99%)
 <iframe src="https://drive.google.com/file/d/1qfJz4rCYOZ5A5vxqnBFM5RAzcbef3zoQ/preview" width="426" height="240" allow="autoplay"></iframe>
 
+---
 
 ## Fraser Edwards
-
 ### The Harvest (99%)
 <iframe src="https://drive.google.com/file/d/1sKJgkSK3JOYzOeT8Ue4FIQbeGRj0TnlS/preview" width="426" height="240" allow="autoplay"></iframe>
 
-## Xi
+---
 
+## Xi
 ### Freedom Dive (98%)
 <iframe src="https://drive.google.com/file/d/1tc8BZ_EMPloOzwGSXhHIDRwrwMHON00X/preview" width="426" height="240" allow="autoplay"></iframe>
