@@ -21,6 +21,6 @@ this is stuff about my teaching
 
 Other Fun Stuff
 ------
-I play fake plastic guitar. Check this out:
+I play fake plastic guitar. Check this out (and see more in the [Music](/music/) tab):
 
 <iframe src="https://drive.google.com/file/d/1s16VnO_PwYL7JfEWAr9c4za0U0Ihlcum/preview" width="426" height="240" allow="autoplay"></iframe>
