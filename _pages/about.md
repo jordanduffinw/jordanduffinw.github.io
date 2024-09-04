@@ -41,5 +41,5 @@ I play fake plastic guitar. Check this out (and see more in the [Music](/music/)
 </style>
 
 <div class="video-holder">
-<iframe src="https://drive.google.com/file/d/1s16VnO_PwYL7JfEWAr9c4za0U0Ihlcum/preview" width="1980" height="1080" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1s16VnO_PwYL7JfEWAr9c4za0U0Ihlcum/preview" width="1920" height="1080" allow="autoplay"></iframe>
 </div>
