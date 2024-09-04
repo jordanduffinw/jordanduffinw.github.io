@@ -23,4 +23,23 @@ Other Fun Stuff
 ------
 I play fake plastic guitar. Check this out (and see more in the [Music](/music/) tab):
 
-<iframe src="https://drive.google.com/file/d/1s16VnO_PwYL7JfEWAr9c4za0U0Ihlcum/preview" width="426" height="240" allow="autoplay"></iframe>
+<style>
+.video-holder {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+.video-holder iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
+<div class="video-holder">
+<iframe src="https://drive.google.com/file/d/1s16VnO_PwYL7JfEWAr9c4za0U0Ihlcum/preview" width="1980" height="1080" allow="autoplay"></iframe>
+</div>
