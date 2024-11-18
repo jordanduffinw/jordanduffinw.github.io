@@ -9,4 +9,4 @@ When do citizens decide they no longer want local government? The United States 
 
 [**Download the paper here**](https://jordanduffinw.github.io/files/papers/20230117-municipal_disincorporation_and_the_voluntary_termination_of_local_government.pdf)
 
-<object data="/files/papers/20230117-municipal_termination_and_the_voluntary_termination_of_local_government.pdf" width="1240" height="1754" type='application/pdf'></object>
+<object data="/files/papers/20230117-municipal_disincorporation_and_the_voluntary_termination_of_local_government.pdf" width="1240" height="1754" type='application/pdf'></object>
