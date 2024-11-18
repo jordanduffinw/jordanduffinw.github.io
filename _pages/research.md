@@ -12,34 +12,33 @@ author_profile: true
 {% include base_path %}
 -----
 
-<!---Conference Papers
+Under Review
 =====
-[**Elections and Representation in American Municipal Administration**](/research/2023-09-26-elections-and-representation-in-american-local-government) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves --->
+[**Elections and Representation in American Municipal Administration: Elite Survey Evidence from Five New England States**](/research/2024-elections-and-representation-in-american-local-government) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves
+
 
 Working Papers
 =====
-[**Elections and Representation in American Municipal Administration: Elite Survey Evidence from Five New England States**](/research/2024-04-11-elections-and-representation-in-american-local-government) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves
 
-<!---[**Paper Title Number 1**](/research/2009-10-01-paper-title-number-1)--->
-[**Electoral Accountability and Bureaucratic Discretion: Evidence from County Coroners and the COVID-19 Pandemic**](/research/2024-01-17-covid-death-reporting) -- with Michael Olson and Andrew Reeves
+[**Electoral Accountability and Bureaucratic Discretion: Evidence from County Coroners and the COVID-19 Pandemic**](/research/2024-electoral-accountability-and-bureaucratic-discretion) -- with Michael Olson and Andrew Reeves
 
 [**Municipal Disincorporation and the Voluntary Termination of Local Government**](/research/2023-01-17-municipal-termination-and-the-voluntary-termination-of-local-government)
 
-**Promise, Despair, Race, and the Demand for Municipal Citizen's Services** --- with Wayde Z.C. Marsh and Andrew Reeves
+<!--- **Promise, Despair, Race, and the Demand for Municipal Citizen's Services** --- with Wayde Z.C. Marsh and Andrew Reeves --->
 
 -----
 
 Other
 =====
-[**Weidenbaum Center Survey**](https://wc.wustl.edu/american-social-survey-tass) --- Faculty Research Survey --- with Taylor Carlson
+[**Weidenbaum Center Survey**](https://wc.wustl.edu/american-social-survey-tass) --- Faculty Research Survey --- with Lukas Alexander, Taylor Carlson, Elizabeth Larson, and Andrew Reeves 
 
 **St. Louis Zoning Atlas** --- with Priya Anand, Matthew Boyd, Cassandra Custis, Alexis Hyde, Loraine Koua, Sofia Oguntolu, Madeline Soh, Mark Wei, and Kiara Wyndham-Douds
 
-**St. Louis Policy Data Project** --- with Lukas Alexander, Lucas Boschelli, and Andrew Reeves
+[**St. Louis Policy Data Project**](https://www.stldashboard.org/) --- with Lukas Alexander, Lucas Boschelli, Rose Jordan, and Andrew Reeves
 
-**Metropolis-within-Gibbs Sampler (2022)** --- <tt>R</tt> Package --- with Kimberly Acquilano, Weiye (Rex) Deng, Jacob Montgomery, Bryant Moy, Jordon Newton, and Alma Velazquez
+<!---**Metropolis-within-Gibbs Sampler (2022)** --- <tt>R</tt> Package --- with Kimberly Acquilano, Weiye (Rex) Deng, Jacob Montgomery, Bryant Moy, Jordon Newton, and Alma Velazquez--->
 
-[**Musical Characteristics of Campaign Songs**](/files/other/2021-musical_characteristics_of_campaign_songs.pdf) --- Academic Poster
+<!---[**Musical Characteristics of Campaign Songs**](/files/other/2021-musical_characteristics_of_campaign_songs.pdf) --- Academic Poster--->
 
 [**An Empirical Analysis of Individual Events in Collegiate Forensics (2020)**](/files/papers/2020-an_empirical_analysis_of_individual_events_in_collegiate_forensics.pdf) --- Undergraduate Honors Thesis --- Advised by Aaron Duncan and Chris Mann
 
