@@ -19,7 +19,7 @@ Under Review
 
 Working Papers
 =====
-[**The Constellation of American Voters: Partisan Sorting Near American Cities**](/research/2025-partisan_sorting_near_american_cities)
+[**The Constellation of American Voters: Partisan Sorting Near American Cities**](/research/2025-partisan-sorting-near-american-cities)
 
 [**Electoral Accountability and Bureaucratic Discretion: Evidence from County Coroners and the COVID-19 Pandemic**](/research/2024-electoral-accountability-and-bureaucratic-discretion) -- with Michael Olson and Andrew Reeves
 
