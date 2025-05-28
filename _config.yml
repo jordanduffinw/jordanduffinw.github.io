@@ -8,7 +8,7 @@
 # Theme setup
 plugins:
   - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
+## remote_theme           : "mmistakes/minimal-mistakes"
 ## minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
@@ -94,7 +94,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cFjjMjoAAAAJ&hl=en"
-  email            : "jordan.d.wong@wustl.edu"
+  email            : "jordanduffinw@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jordan-wong-272a80348/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
