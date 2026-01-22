@@ -23,7 +23,7 @@ repository               : "jordanduffinw/jordanduffinw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   name             : "Jordan Duffin Wong"
   pronouns         : "he/him/his"  
   bio              : "Map Guy"
