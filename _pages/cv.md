@@ -43,7 +43,7 @@ Professional Experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -53,7 +53,7 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -62,5 +62,5 @@ Teaching
   {% endfor %}</ul>
 
 You can also view my CV [here](/files/cv/JDW_CV.pdf).
-
+======
 <object data="/files/cv/JDW_CV.pdf" width="1240" height="1754" type='application/pdf'></object>
