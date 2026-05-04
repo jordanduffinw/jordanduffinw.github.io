@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Jordan Duffin Wong</title>
+<title>Curriculum Vitae – Jordan Duffin Wong</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -37,6 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-067f8ab80d092ae3595f7402c2c9b667.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -70,11 +71,41 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="cv.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -92,11 +123,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link active" href="./cv.html" aria-current="page"> 
 <span class="menu-text">Curriculum Vitae</span></a>
   </li>  
 </ul>
@@ -110,76 +141,146 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
+  <li><a href="#professional-experience" id="toc-professional-experience" class="nav-link" data-scroll-target="#professional-experience">Professional Experience</a>
+  <ul class="collapse">
+  <li><a href="#five-rule-rural-planning" id="toc-five-rule-rural-planning" class="nav-link" data-scroll-target="#five-rule-rural-planning">FIVE RULE Rural Planning</a></li>
+  <li><a href="#st.-louis-zoning-atlas" id="toc-st.-louis-zoning-atlas" class="nav-link" data-scroll-target="#st.-louis-zoning-atlas">St.&nbsp;Louis Zoning Atlas</a></li>
+  <li><a href="#weidenbaum-center-on-the-economy-government-and-public-policy" id="toc-weidenbaum-center-on-the-economy-government-and-public-policy" class="nav-link" data-scroll-target="#weidenbaum-center-on-the-economy-government-and-public-policy">Weidenbaum Center on the Economy, Government, and Public Policy</a></li>
+  <li><a href="#washington-university-in-st.-louis" id="toc-washington-university-in-st.-louis" class="nav-link" data-scroll-target="#washington-university-in-st.-louis">Washington University in St.&nbsp;Louis</a></li>
+  <li><a href="#nebraska-bureau-of-business-research" id="toc-nebraska-bureau-of-business-research" class="nav-link" data-scroll-target="#nebraska-bureau-of-business-research">Nebraska Bureau of Business Research</a></li>
+  <li><a href="#lincoln-southwest-high-school-lincoln-ne" id="toc-lincoln-southwest-high-school-lincoln-ne" class="nav-link" data-scroll-target="#lincoln-southwest-high-school-lincoln-ne">Lincoln Southwest High School (Lincoln, NE)</a></li>
+  </ul></li>
+  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a>
+  <ul class="collapse">
+  <li><a href="#computational-social-science" id="toc-computational-social-science" class="nav-link" data-scroll-target="#computational-social-science">Computational Social Science</a></li>
+  <li><a href="#software-proficiency" id="toc-software-proficiency" class="nav-link" data-scroll-target="#software-proficiency">Software Proficiency</a></li>
+  <li><a href="#written-and-oral-communication" id="toc-written-and-oral-communication" class="nav-link" data-scroll-target="#written-and-oral-communication">Written and Oral Communication</a></li>
+  <li><a href="#research-design" id="toc-research-design" class="nav-link" data-scroll-target="#research-design">Research Design</a></li>
+  <li><a href="#project-and-team-management" id="toc-project-and-team-management" class="nav-link" data-scroll-target="#project-and-team-management">Project and Team Management</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="cv.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-jolla">
-  <img src="me.png" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Curriculum Vitae</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><div id="hero-heading">
-<p>Hi! I’m the Chief Data Scientist at FIVE RULE Rural Planning in Kearney, Nebraska. I have a Ph.D in Political Science from Washington University in St.&nbsp;Louis. In a previous life, I was also a survey research affiliate with the Weidenbaum Center on the Economy, Government, and Public Policy.</p>
-<section id="my-research" class="level1">
-<h1>My Research</h1>
-<p>I study the politics and space of the rural United States. I’m interested in questions about how remoteness, rurality, and the sparseness of political institutions affect people’s dispositions towards politics, from both an institutional and behavioral standpoint. My dissertation, titled <i>The Constellation of American Voters</i>, analyzes the distribution of where Americans live with respect to municipal cleavages in political geography. The abstract is:</p>
-<blockquote class="blockquote">
-<p>More than 130 million Americans live in <i>unincorporated areas</i>, or the spaces outside the boundaries of cities, towns, and villages. Despite this, relatively little attention has been paid to whether, how, and why residents of unincorporated areas differ from their municipality-dwelling counterparts. In this dissertation, I explore the answers to these questions by establishing a new theoretical framework that rigorously defines, bounds, and partitions unincorporated space. Drawing on the near-universe of American voters, I illustrate, with unparalleled precision, where and how Americans have sorted into and out of municipalities, and show that different mechanisms drive these phenomena. Furthermore, I explore the downstream consequences of sorting phenomena for important features of political attitudes and behavior. Finally, I consider this difference temporally as well as spatially by studying municipal disincorporation, or the ability of voters to democratically erase municipalities from existence.</p>
-</blockquote>
-<!--My Teaching
-======
-this is stuff about my teaching
--->
+  
+
+
+</header>
+
+
+<div class="print-only contact-block">
+<p>jordanduffinw@gmail.com | <a href="https://github.com/jordanduffinw">github.com/jordanduffinw</a></p>
+</div>
+<p>As a social scientist with eight years of experience employing advanced quantitative and econometric methods, I excel in designing and implementing strategies to understand difficult political and societal challenges. I am trained in an extensive array of social science techniques and software, with a passion for using cutting-edge technology to make the world a better place. I firmly believe that social scientists have a responsibility to apply their expertise for social good, and that most impactful good we can do is in our communities.</p>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<p><strong>Washington University in St.&nbsp;Louis</strong></p>
+<p>Ph.D in Political Science<span class="cvdate">2025</span></p>
+<p>M.A.&nbsp;in Political Science<span class="cvdate">2023</span></p>
+<p><strong>University of Nebraska – Lincoln</strong></p>
+<p>B.A. in Economics and Political Science<span class="cvdate">2020</span></p>
+<p>Minor in Mathematics</p>
+<p>Phi Mu Epsilon Honorary National Mathematics Society</p>
 </section>
-<section id="other-fun-stuff" class="level1">
-<h1>Other Fun Stuff</h1>
-<p>I’m extremely good at playing a fake plastic guitar. See more in the Music tab):</p>
-<style>
-.video-holder {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
-  overflow: hidden;
-}
-.video-holder iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-<div class="video-holder">
-<iframe src="https://drive.google.com/file/d/118KTAvg2BrXr4MqB_FO-1XPRvETeuS65/preview" width="1920" height="1080" allow="autoplay">
-</iframe>
-</div>
+<section id="professional-experience" class="level2" style="page-break-before: always">
+<h2 style="page-break-before: always" class="anchored" data-anchor-id="professional-experience">Professional Experience</h2>
+<section id="five-rule-rural-planning" class="level3">
+<h3 class="anchored" data-anchor-id="five-rule-rural-planning">FIVE RULE Rural Planning</h3>
+<p><strong><em>Chief Data Scientist</em></strong> <span class="cvdate">2025 – present</span></p>
+<p>I drafted comprehensive development plans, housing studies, and regional reports for clients, local governments, and economic development boards. With FIVE RULE, we became the first consultants in the United States to utilize the Quarto engine for planning and zoning administration.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 </section>
-</div> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://github.com" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-</div>
-</div>
+<section id="st.-louis-zoning-atlas" class="level3">
+<h3 class="anchored" data-anchor-id="st.-louis-zoning-atlas">St.&nbsp;Louis Zoning Atlas</h3>
+<p><strong><em>Head Geospatial Analyst</em></strong> <span class="cvdate">2023 – present</span></p>
+<p>I worked with a team of Washington University faculty, Ph.D students, and undergraduate students to compile, digitally clean, and analyze a <a href="https://www.zoningatlas.org/missouri%7D%7Bcomprehensive">comprehensive</a> set of municipal zoning ordinances in the St.&nbsp;Louis metropolitan area. My responsibilities included overseeing and managing geospatial quality control checks for graduate and undergraduate research assistants.</p>
+</section>
+<section id="weidenbaum-center-on-the-economy-government-and-public-policy" class="level3">
+<h3 class="anchored" data-anchor-id="weidenbaum-center-on-the-economy-government-and-public-policy">Weidenbaum Center on the Economy, Government, and Public Policy</h3>
+<p><strong><em>Survey Research Affiliate</em></strong> <span class="cvdate">2023 – 2025</span></p>
+<p>I collaborated with Washington University faculty researchers and analysts at YouGov, NORC, and Verasight to design, quality-control, and administer <a href="https://wc.washu.edu">multiple high-cost, high-quality survey instruments for academic social science research</a>.</p>
+</section>
+<section id="washington-university-in-st.-louis" class="level3">
+<h3 class="anchored" data-anchor-id="washington-university-in-st.-louis">Washington University in St.&nbsp;Louis</h3>
+<p><strong><em>Political Scientist</em></strong> <span class="cvdate">2020 – 2025</span></p>
+<p>I designed, managed, and executed a <a href="https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=4975&amp;context=art_sci_etds">multi-year dissertation research project</a>, utilizing advanced econometric and quantitative research methodology, leveraging a number of disparate data sources, applying time and project management, and coordinating an advisory committee of five faculty advisors across multiple departments.</p>
+<p>Furthermore, I worked with various Washington University faculty and Ph.D students to design, execute, and evaluate research projects for peer-reviewed publication. Project specialization includes an ongoing <a href="https://www.stldashboard.org/">St.&nbsp;Louis Policy Initiative Data Dashboard</a>, designed to help end users visually analyze and compare socioeconomic and political data about St.&nbsp;Louis City and County.</p>
+<p>Finally, I assisted department faculty in teaching a variety of undergraduate- and Ph.D-level courses in political science and statistics, averaging no lower than a 4.67 (out of 5) on any teaching evaluation criteria.</p>
+</section>
+<section id="nebraska-bureau-of-business-research" class="level3">
+<h3 class="anchored" data-anchor-id="nebraska-bureau-of-business-research">Nebraska Bureau of Business Research</h3>
+<p><strong><em>Economic Research Analyst</em></strong> <span class="cvdate">2018-2020</span></p>
+<p>I assisted faculty in the University of Nebraska-Lincoln Department of Economics in executing various survey-based and observational research projects of economic development across Nebraska and the Great Plains region. Excelled in communicating findings to the Nebraska public, both with <a href="https://ruralprosperityne.unl.edu/rural-tools/thriving-index/">written</a> <a href="https://business.unl.edu/research/bureau-of-business-research/leading-economic-indicator-reports/">reports</a> and through <a href="https://x.com/ruralnebraska/status/1116079734511865857">direct presentation</a>. In particular, I was one of the leading analysts on the <a href="https://ruralprosperityne.unl.edu/rural-tools/thriving-index/">inagural Rural Prosperity Nebraska Thriving Index</a>.</p>
+</section>
+<section id="lincoln-southwest-high-school-lincoln-ne" class="level3">
+<h3 class="anchored" data-anchor-id="lincoln-southwest-high-school-lincoln-ne">Lincoln Southwest High School (Lincoln, NE)</h3>
+<p><strong><em>Speech and Debate Coach</em></strong> <span class="cvdate">2017 – 2020</span></p>
+<p>I coached at a top-20 nationally ranked high school speech and debate team, where I helped train over 50 high school students to experience competitive success, including dozens of state- and national-tournament qualifiers.</p>
+</section>
+</section>
+<section id="skills" class="level2">
+<h2 class="anchored" data-anchor-id="skills">Skills</h2>
+<section id="computational-social-science" class="level3">
+<h3 class="anchored" data-anchor-id="computational-social-science">Computational Social Science</h3>
+<p>I am trained in frequentist and Bayesian statistical methodology, emphasizing linear model approaches; in causal inference and machine learning techniques applied to both observational and experimental data; and in spatial econometrics and modeling of spatiotemporal lags in data. I specialize in working with geographically granular and highly localized data sets. For the Ph.D dissertation project, I engineered a novel methodology to geocode the entirety of voters in the United States (<span class="math inline">\(n \sim 180\)</span> million) on a single laptop computer.</p>
+</section>
+<section id="software-proficiency" class="level3">
+<h3 class="anchored" data-anchor-id="software-proficiency">Software Proficiency</h3>
+<p>I am proficient in ArcGIS Pro, LaTeX, Microsoft Office, Qualtrics, and R. I have limited experience in JavaScript, Python, and Stata. Across software platforms, I specialize in analyzing and visualizing data and results.</p>
+</section>
+<section id="written-and-oral-communication" class="level3">
+<h3 class="anchored" data-anchor-id="written-and-oral-communication">Written and Oral Communication</h3>
+<p>I have significant experience in writing peer-reviewed academic literature, public-facing white papers, and long-form research reports; furthermore, I am an <strong>exceptional</strong> oral communicator, including teaching and lecturing, podcast experience, and conference or community presentations, in both rehearsed and improvised settings. Moreover, I have <a href="https://comm.unl.edu/experiential-learning/speech-and-debate/">four years of training in oral communication theory and practice</a>, knowing precisely how and why oral communication techniques work where they do.</p>
+</section>
+<section id="research-design" class="level3">
+<h3 class="anchored" data-anchor-id="research-design">Research Design</h3>
+<p>I am skilled in designing, scaling, and implementing sophisticated research designs to answer complex research questions using various observational and experimental data.</p>
+</section>
+<section id="project-and-team-management" class="level3">
+<h3 class="anchored" data-anchor-id="project-and-team-management">Project and Team Management</h3>
+<p>At FIVE RULE, I’m responsible for keeping the technical and data-driven aspects of company projects readable, transparent, and accessible. I have proficiency with Robert’s Rules of Order and have managed municipal meetings for multiple client communities.</p>
+<p>At Washington University in St.&nbsp;Louis, I designed, or helped design, execute, and implement a number of multiyear group research projects in both leadership and supporting roles. I’m experienced in training and managing high school and undergraduate students, fellow graduate students, and managing university faculty and other skilled professionals.</p>
 
 
+</section>
+</section>
 
 
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
-</main> <!-- /main -->
+<ol>
+<li id="fn1"><p>One example can be found <a href="http://oxfordzoningregs.com">here</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
