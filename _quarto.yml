@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - cv.qmd
 
 format:
   html:
@@ -18,4 +18,3 @@ format:
     toc: true
 
 editor: visual
-

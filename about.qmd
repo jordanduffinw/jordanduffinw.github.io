@@ -10,8 +10,7 @@ about:
       href: https://github.com
 ---
 
-:::{#hero-heading}
-
+:::: {#hero-heading}
 Hi! I'm the Chief Data Scientist at FIVE RULE Rural Planning in Kearney, Nebraska. I have a Ph.D in Political Science from Washington University in St. Louis. In a previous life, I was also a survey research affiliate with the Weidenbaum Center on the Economy, Government, and Public Policy.
 
 # My Research
@@ -29,7 +28,7 @@ this is stuff about my teaching
 
 # Other Fun Stuff
 
-I'm extremely good at playing a fake plastic guitar. See more in the Music tab):
+I'm extremely good at playing a fake plastic guitar.
 
 ```{=html}
 <style>
@@ -55,3 +54,4 @@ I'm extremely good at playing a fake plastic guitar. See more in the Music tab):
 
 </iframe>
 :::
+::::

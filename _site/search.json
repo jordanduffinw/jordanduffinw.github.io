@@ -1,23 +1,51 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "jordanduffinw@gmail.com | github.com/jordanduffinw\nAs a social scientist with eight years of experience employing advanced quantitative and econometric methods, I excel in designing and implementing strategies to understand difficult political and societal challenges. I am trained in an extensive array of social science techniques and software, with a passion for using cutting-edge technology to make the world a better place. I firmly believe that social scientists have a responsibility to apply their expertise for social good, and that most impactful good we can do is in our communities."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nWashington University in St. Louis\nPh.D in Political Science2025\nM.A. in Political Science2023\nUniversity of Nebraska – Lincoln\nB.A. in Economics and Political Science2020\nMinor in Mathematics\nPhi Mu Epsilon Honorary National Mathematics Society"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nFIVE RULE Rural Planning\nChief Data Scientist 2025 – present\nI drafted comprehensive development plans, housing studies, and regional reports for clients, local governments, and economic development boards. With FIVE RULE, we became the first consultants in the United States to utilize the Quarto engine for planning and zoning administration.1\n\n\nSt. Louis Zoning Atlas\nHead Geospatial Analyst 2023 – present\nI worked with a team of Washington University faculty, Ph.D students, and undergraduate students to compile, digitally clean, and analyze a comprehensive set of municipal zoning ordinances in the St. Louis metropolitan area. My responsibilities included overseeing and managing geospatial quality control checks for graduate and undergraduate research assistants.\n\n\nWeidenbaum Center on the Economy, Government, and Public Policy\nSurvey Research Affiliate 2023 – 2025\nI collaborated with Washington University faculty researchers and analysts at YouGov, NORC, and Verasight to design, quality-control, and administer multiple high-cost, high-quality survey instruments for academic social science research.\n\n\nWashington University in St. Louis\nPolitical Scientist 2020 – 2025\nI designed, managed, and executed a multi-year dissertation research project, utilizing advanced econometric and quantitative research methodology, leveraging a number of disparate data sources, applying time and project management, and coordinating an advisory committee of five faculty advisors across multiple departments.\nFurthermore, I worked with various Washington University faculty and Ph.D students to design, execute, and evaluate research projects for peer-reviewed publication. Project specialization includes an ongoing St. Louis Policy Initiative Data Dashboard, designed to help end users visually analyze and compare socioeconomic and political data about St. Louis City and County.\nFinally, I assisted department faculty in teaching a variety of undergraduate- and Ph.D-level courses in political science and statistics, averaging no lower than a 4.67 (out of 5) on any teaching evaluation criteria.\n\n\nNebraska Bureau of Business Research\nEconomic Research Analyst 2018-2020\nI assisted faculty in the University of Nebraska-Lincoln Department of Economics in executing various survey-based and observational research projects of economic development across Nebraska and the Great Plains region. Excelled in communicating findings to the Nebraska public, both with written reports and through direct presentation. In particular, I was one of the leading analysts on the inagural Rural Prosperity Nebraska Thriving Index.\n\n\nLincoln Southwest High School (Lincoln, NE)\nSpeech and Debate Coach 2017 – 2020\nI coached at a top-20 nationally ranked high school speech and debate team, where I helped train over 50 high school students to experience competitive success, including dozens of state- and national-tournament qualifiers."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nComputational Social Science\nI am trained in frequentist and Bayesian statistical methodology, emphasizing linear model approaches; in causal inference and machine learning techniques applied to both observational and experimental data; and in spatial econometrics and modeling of spatiotemporal lags in data. I specialize in working with geographically granular and highly localized data sets. For the Ph.D dissertation project, I engineered a novel methodology to geocode the entirety of voters in the United States (\\(n \\sim 180\\) million) on a single laptop computer.\n\n\nSoftware Proficiency\nI am proficient in ArcGIS Pro, LaTeX, Microsoft Office, Qualtrics, and R. I have limited experience in JavaScript, Python, and Stata. Across software platforms, I specialize in analyzing and visualizing data and results.\n\n\nWritten and Oral Communication\nI have significant experience in writing peer-reviewed academic literature, public-facing white papers, and long-form research reports; furthermore, I am an exceptional oral communicator, including teaching and lecturing, podcast experience, and conference or community presentations, in both rehearsed and improvised settings. Moreover, I have four years of training in oral communication theory and practice, knowing precisely how and why oral communication techniques work where they do.\n\n\nResearch Design\nI am skilled in designing, scaling, and implementing sophisticated research designs to answer complex research questions using various observational and experimental data.\n\n\nProject and Team Management\nAt FIVE RULE, I’m responsible for keeping the technical and data-driven aspects of company projects readable, transparent, and accessible. I have proficiency with Robert’s Rules of Order and have managed municipal meetings for multiple client communities.\nAt Washington University in St. Louis, I designed, or helped design, execute, and implement a number of multiyear group research projects in both leadership and supporting roles. I’m experienced in training and managing high school and undergraduate students, fellow graduate students, and managing university faculty and other skilled professionals."
+  },
+  {
+    "objectID": "cv.html#footnotes",
+    "href": "cv.html#footnotes",
+    "title": "Curriculum Vitae",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nOne example can be found here.↩︎"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "jordanduffinw",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I’m the Chief Data Scientist at FIVE RULE Rural Planning in Kearney, Nebraska. I have a Ph.D in Political Science from Washington University in St. Louis. In a previous life, I was also a survey research affiliate with the Weidenbaum Center on the Economy, Government, and Public Policy.\n\nMy Research\nI study the politics and space of the rural United States. I’m interested in questions about how remoteness, rurality, and the sparseness of political institutions affect people’s dispositions towards politics, from both an institutional and behavioral standpoint. My dissertation, titled The Constellation of American Voters, analyzes the distribution of where Americans live with respect to municipal cleavages in political geography. The abstract is:\n\nMore than 130 million Americans live in unincorporated areas, or the spaces outside the boundaries of cities, towns, and villages. Despite this, relatively little attention has been paid to whether, how, and why residents of unincorporated areas differ from their municipality-dwelling counterparts. In this dissertation, I explore the answers to these questions by establishing a new theoretical framework that rigorously defines, bounds, and partitions unincorporated space. Drawing on the near-universe of American voters, I illustrate, with unparalleled precision, where and how Americans have sorted into and out of municipalities, and show that different mechanisms drive these phenomena. Furthermore, I explore the downstream consequences of sorting phenomena for important features of political attitudes and behavior. Finally, I consider this difference temporally as well as spatially by studying municipal disincorporation, or the ability of voters to democratically erase municipalities from existence.\n\n\n\n\nOther Fun Stuff\nI’m extremely good at playing a fake plastic guitar. See more in the Music tab):\n\n\n\n\n\n\n \n  \n   \n  \n    \n     Github"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi! My name is Jordan Duffin Wong and I have a Ph.D in Political Science from Washington University in St. Louis. I am also a survey research affiliate with the Weidenbaum Center on the Economy, Government, and Public Policy."
-  },
-  {
-    "objectID": "about.html#other-fun-stuff",
-    "href": "about.html#other-fun-stuff",
-    "title": "About",
-    "section": "Other Fun Stuff",
-    "text": "Other Fun Stuff\nI’m extremely good at playing a fake plastic guitar. See more in the Music tab):"
+    "text": "Hi! I’m the Chief Data Scientist at FIVE RULE Rural Planning in Kearney, Nebraska. I have a Ph.D in Political Science from Washington University in St. Louis. In a previous life, I was also a survey research affiliate with the Weidenbaum Center on the Economy, Government, and Public Policy.\n\nMy Research\nI study the politics and space of the rural United States. I’m interested in questions about how remoteness, rurality, and the sparseness of political institutions affect people’s dispositions towards politics, from both an institutional and behavioral standpoint. My dissertation, titled The Constellation of American Voters, analyzes the distribution of where Americans live with respect to municipal cleavages in political geography. The abstract is:\n\nMore than 130 million Americans live in unincorporated areas, or the spaces outside the boundaries of cities, towns, and villages. Despite this, relatively little attention has been paid to whether, how, and why residents of unincorporated areas differ from their municipality-dwelling counterparts. In this dissertation, I explore the answers to these questions by establishing a new theoretical framework that rigorously defines, bounds, and partitions unincorporated space. Drawing on the near-universe of American voters, I illustrate, with unparalleled precision, where and how Americans have sorted into and out of municipalities, and show that different mechanisms drive these phenomena. Furthermore, I explore the downstream consequences of sorting phenomena for important features of political attitudes and behavior. Finally, I consider this difference temporally as well as spatially by studying municipal disincorporation, or the ability of voters to democratically erase municipalities from existence.\n\n\n\n\nOther Fun Stuff\nI’m extremely good at playing a fake plastic guitar.\n\n\n\n\n\n\n \n  \n   \n  \n    \n     Github"
   }
 ]

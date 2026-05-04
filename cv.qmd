@@ -1,0 +1,97 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Jordan Duffin Wong
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+jordanduffinw\@gmail.com \| [github.com/jordanduffinw](https://github.com/jordanduffinw)
+:::
+
+As a social scientist with eight years of experience employing advanced quantitative and econometric methods, I excel in designing and implementing strategies to understand difficult political and societal challenges. I am trained in an extensive array of social science techniques and software, with a passion for using cutting-edge technology to make the world a better place. I firmly believe that social scientists have a responsibility to apply their expertise for social good, and that most impactful good we can do is in our communities.
+
+## Education
+
+**Washington University in St. Louis**
+
+Ph.D in Political Science[2025]{.cvdate}
+
+M.A. in Political Science[2023]{.cvdate}
+
+**University of Nebraska -- Lincoln**
+
+B.A. in Economics and Political Science[2020]{.cvdate}
+
+Minor in Mathematics
+
+Phi Mu Epsilon Honorary National Mathematics Society
+
+## Professional Experience {style="page-break-before: always"}
+
+### FIVE RULE Rural Planning
+
+***Chief Data Scientist*** [2025 -- present]{.cvdate}
+
+I drafted comprehensive development plans, housing studies, and regional reports for clients, local governments, and economic development boards. With FIVE RULE, we became the first consultants in the United States to utilize the Quarto engine for planning and zoning administration.[^1]
+
+[^1]: One example can be found [here](http://oxfordzoningregs.com).
+
+### St. Louis Zoning Atlas
+
+***Head Geospatial Analyst*** [2023 -- present]{.cvdate}
+
+I worked with a team of Washington University faculty, Ph.D students, and undergraduate students to compile, digitally clean, and analyze a [comprehensive](https://www.zoningatlas.org/missouri%7D%7Bcomprehensive) set of municipal zoning ordinances in the St. Louis metropolitan area. My responsibilities included overseeing and managing geospatial quality control checks for graduate and undergraduate research assistants.
+
+### Weidenbaum Center on the Economy, Government, and Public Policy
+
+***Survey Research Affiliate*** [2023 -- 2025]{.cvdate}
+
+I collaborated with Washington University faculty researchers and analysts at YouGov, NORC, and Verasight to design, quality-control, and administer [multiple high-cost, high-quality survey instruments for academic social science research](https://wc.washu.edu).
+
+### Washington University in St. Louis
+
+***Political Scientist*** [2020 -- 2025]{.cvdate}
+
+I designed, managed, and executed a [multi-year dissertation research project](https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=4975&context=art_sci_etds), utilizing advanced econometric and quantitative research methodology, leveraging a number of disparate data sources, applying time and project management, and coordinating an advisory committee of five faculty advisors across multiple departments.
+
+Furthermore, I worked with various Washington University faculty and Ph.D students to design, execute, and evaluate research projects for peer-reviewed publication. Project specialization includes an ongoing [St. Louis Policy Initiative Data Dashboard](https://www.stldashboard.org/), designed to help end users visually analyze and compare socioeconomic and political data about St. Louis City and County.
+
+Finally, I assisted department faculty in teaching a variety of undergraduate- and Ph.D-level courses in political science and statistics, averaging no lower than a 4.67 (out of 5) on any teaching evaluation criteria.
+
+### Nebraska Bureau of Business Research
+
+***Economic Research Analyst*** [2018-2020]{.cvdate}
+
+I assisted faculty in the University of Nebraska-Lincoln Department of Economics in executing various survey-based and observational research projects of economic development across Nebraska and the Great Plains region. Excelled in communicating findings to the Nebraska public, both with [written](https://ruralprosperityne.unl.edu/rural-tools/thriving-index/) [reports](https://business.unl.edu/research/bureau-of-business-research/leading-economic-indicator-reports/) and through [direct presentation](https://x.com/ruralnebraska/status/1116079734511865857). In particular, I was one of the leading analysts on the [inagural Rural Prosperity Nebraska Thriving Index](https://ruralprosperityne.unl.edu/rural-tools/thriving-index/).
+
+### Lincoln Southwest High School (Lincoln, NE)
+
+***Speech and Debate Coach*** [2017 -- 2020]{.cvdate}
+
+I coached at a top-20 nationally ranked high school speech and debate team, where I helped train over 50 high school students to experience competitive success, including dozens of state- and national-tournament qualifiers.
+
+## Skills
+
+### Computational Social Science
+I am trained in frequentist and Bayesian statistical methodology, emphasizing linear model approaches; in causal inference and machine learning techniques applied to both observational and experimental data; and in spatial econometrics and modeling of spatiotemporal lags in data. I specialize in working with geographically granular and highly localized data sets. For the Ph.D dissertation project, I engineered a novel methodology to geocode the entirety of voters in the United States ($n \sim 180$ million) on a single laptop computer.
+
+### Software Proficiency
+I am proficient in ArcGIS Pro, LaTeX, Microsoft Office, Qualtrics, and R. I have limited experience in JavaScript, Python, and Stata. Across software platforms, I specialize in analyzing and visualizing data and results.
+
+### Written and Oral Communication
+I have significant experience in writing peer-reviewed academic literature, public-facing white papers, and long-form research reports; furthermore, I am an **exceptional** oral communicator, including teaching and lecturing, podcast experience, and conference or community presentations, in both rehearsed and improvised settings. Moreover, I have [four years of training in oral communication theory and practice](https://comm.unl.edu/experiential-learning/speech-and-debate/), knowing precisely how and why oral communication techniques work where they do.
+
+### Research Design
+I am skilled in designing, scaling, and implementing sophisticated research designs to answer complex research questions using various observational and experimental data.
+
+### Project and Team Management
+
+At FIVE RULE, I'm responsible for keeping the technical and data-driven aspects of company projects readable, transparent, and accessible. I have proficiency with Robert's Rules of Order and have managed municipal meetings for multiple client communities.
+
+At Washington University in St. Louis, I designed, or helped design, execute, and implement a number of multiyear group research projects in both leadership and supporting roles. I'm experienced in training and managing high school and undergraduate students, fellow graduate students, and managing university faculty and other skilled professionals.
